@@ -1,0 +1,20 @@
+body{
+    background-color: pink;
+}
+
+p{
+    font-size: small;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.tables{
+    background-color: yellow;
+}
+
+#p1{
+    font-size: 16px;
+}
+
+td{
+    font-size: small;
+}
